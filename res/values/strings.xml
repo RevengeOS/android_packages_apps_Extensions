@@ -278,6 +278,14 @@
     <string name="edge_gestures_back_screen_percent_summary">Trigger below % of screen</string>
     <string name="edge_gestures_summary">Navigate using edge gestures</string>
 
+    <!-- Lockscreen clock styles -->
+    <string name="lockscreen_clock_selection_title">Clock style</string>
+    <string name="lockscreen_clock_selection_digital">Default</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
+    <string name="lockscreen_clock_selection_analog">Analog</string>
+    <string name="lockscreen_clock_selection_sammy">Sammy</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
+
     <!-- Weather -->
     <string name="weather_title">Weather</string>
     <string name="weather_unit">Temperature unit</string>
@@ -331,4 +339,5 @@
     <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
     <string name="lockscreen_info_title">Items underneath the clock</string>
     <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+
 </resources>
