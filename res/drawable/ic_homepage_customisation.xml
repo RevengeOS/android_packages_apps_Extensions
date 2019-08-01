@@ -18,10 +18,7 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape android:shape="oval">
-            <gradient 
-                android:startColor="@*android:color/gradient_start"
-                android:endColor="@*android:color/gradient_end"
-                android:angle="45"/>
+            <solid android:color="#F0DFF3"/>
             <size
                 android:width="@dimen/dashboard_tile_image_size"
                 android:height="@dimen/dashboard_tile_image_size" />
